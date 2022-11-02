@@ -10,7 +10,15 @@
 
 ## Performance
 
-O modelo treinado possui performance de **??%**.
+O modelo treinado possui performance de **:**
+                
+                Class     Images  Instances          P          R      mAP50   mAP50-95: 100% 1/1 [00:01<00:00,  1.16s/it]
+                   all        102        116      0.908       0.89      0.904      0.566
+                   Car        102         26      0.982      0.962      0.968      0.772
+                Cattle        102         33      0.717      0.846       0.81      0.468
+                   Dog        102         27      0.995      0.852      0.932      0.501
+                People        102         30      0.936        0.9      0.904      0.523
+
 
 ### Output do bloco de treinamento
 
@@ -24,11 +32,10 @@ O modelo treinado possui performance de **??%**.
 
 ### Evidências do treinamento
 
-![confusion_matrix](https://user-images.githubusercontent.com/110351146/199369244-7888d952-e3d0-4a21-a8f4-2284d61e619d.png)
+![labels_correlogram](https://user-images.githubusercontent.com/110351146/199569425-d6dbaa98-908e-49f8-af3d-3f567e69ff6e.jpg)
 
+![train_batch0](https://user-images.githubusercontent.com/110351146/199569369-37d7955f-eebf-40ee-bf46-b47b60a1aa7d.jpg)
 
-Exemplo de adição de imagem:
-![Descrição](https://picsum.photos/seed/picsum/500/300)
 
 ## Roboflow
 
