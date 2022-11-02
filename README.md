@@ -2,7 +2,7 @@
 
 # Projeto Final - Modelos Preditivos Conexionistas
 
-### Nome do aluno
+### Pablo Henrique de Lira Menezes
 
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
@@ -32,10 +32,8 @@ Exemplo de adição de imagem:
 
 ## Roboflow
 
-Nessa seção deve colocar o link para acessar o dataset no Roboflow
-
-Exemplo de link: [Nome do link](google.com)
+https://app.roboflow.com/cesar-school-jtqzc/projeto-deteccao/1
 
 ## HuggingFace
 
-Nessa seção você deve publicar o link para o HuggingFace
+https://huggingface.co/spaces/paablo/detection
