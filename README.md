@@ -22,8 +22,13 @@ O modelo treinado possui performance de **:**
 
 ### Output do bloco de treinamento
 
+100 epochs completed in 0.303 hours.
+Optimizer stripped from runs/train/exp/weights/last.pt, 14.5MB
+Optimizer stripped from runs/train/exp/weights/best.pt, 14.5MB
 
-     ?????
+Validating runs/train/exp/weights/best.pt...
+Fusing layers... 
+Model summary: 157 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
 
 ### Evidências do treinamento
 
